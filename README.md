@@ -31,7 +31,7 @@
 | **Bhutanese**          | ✅ 正确 | Bhutan（不丹）                                                                                        |
 | **Bolivian**           | ✅ 正确 | Bolivia（玻利维亚）                                                                                   |
 | **Bosnian**            | ✅ 正确 | Bosnia and Herzegovina（波黑）                                                                        |
-| **Tswana**             | ❌ 错误 | 通常指 Botswana 的民族（不是标准国籍形容词），常用是 "Botswanan" 或 "Motswana" 非要写的话是"Motswana" |
+| **Tswana**             | ❌ 错误 | 通常指 Botswana 的民族（不是标准国籍形容词），"Motswana" |
 | **Bouvet Island**      | ❌ 错误 | 是一个无居民的挪威属地，不适合作为国籍（不应出现在国籍列表）                                          |
 | **Brazilian**          | ✅ 正确 | Brazil（巴西）                                                                                        |
 | **Bruneian**           | ✅ 正确 | Brunei（文莱）                                                                                        |
